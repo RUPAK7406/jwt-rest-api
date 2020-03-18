@@ -2,7 +2,7 @@
 
 This Repositry is an example of REST API which has its Routes Secured. JWT Mechanism is used for creating / loggin in a user. Only a logged in user create a new product.
 
-###Configuration
+### Configuration
 
 1.) Clone The Repository :
 `git clone https://github.com/RUPAK7406/jwt-rest-api.git`
